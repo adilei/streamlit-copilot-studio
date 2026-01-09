@@ -1,0 +1,6 @@
+streamlit>=1.32.0
+python-dotenv
+msal
+aiohttp
+microsoft-agents-activity
+microsoft-agents-copilotstudio-client
